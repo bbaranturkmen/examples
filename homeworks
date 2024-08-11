@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Document</title>
+</head>
+<body>
+          <h1>Baran Türkmen</h1>
+
+          <h4>Hakkımda</h4>
+
+          <p>Merhaba ben Baran Türkmen! Muğla'da yaşıyorum. 23 yaşındayım aksiyon bilim kurgu hoşuma giden her tarzda dizi ve film izlemeyi severim
+                    ayrıca spor yapmak en sevdiğim hobimdir.
+          </p>
+
+          <h2>Sevdiğim Diziler</h2>
+
+          <h3>Daredevil</h3>
+
+          <p>Başarılı bir avukat olan Matt Murdock, çocukken geçirdiği bir kaza sonucu gözlerini kaybeder (radyoaktif bir madde gözlerine sıçrar). Gözlerini kaybetmesine karşılık diğer duyularını geliştiren Murdock, kendini sürekli olarak psikolojik ve fiziksel olarak geliştirir.</p>
+</body>
+</html>
