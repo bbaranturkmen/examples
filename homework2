@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Document</title>
+</head>
+<body>
+          
+          <h1>Baran Türkmen</h1>
+
+          <h4>Hakkımda</h4>
+
+          <p>Merhaba ben Baran Türkmen! Muğla'da yaşıyorum. 23 yaşındayım aksiyon bilim kurgu hoşuma giden her tarzda dizi ve film izlemeyi severim
+                    ayrıca spor yapmak en sevdiğim hobimdir.
+          </p>
+
+         <h3>İlgi Alanlarım</h3>
+
+         <p>1.Film</p>
+         <ul>
+          <li><a href="#">The Big Lebowski</a></li>
+          <li>The Blue Brothers</li>
+          <li>Neredesin Firuze</li>
+         </ul>
+         <p>2.Dizi</p>
+         <ul>
+          <li><a href="#">Daredevil</a></li>
+          <li>BloodHounds</li>
+          <li>The Walking Dead</li>
+         </ul>
+         <p>3.Kitap</p>
+         <ul>
+          <li>Yerdeniz</li>
+          <li>Dune</li>
+          <li>Androidler Elektrikli Koyun Düşler Mi?</li>
+         </ul>
+
+         <h2>Sevdiğim Diziler</h2>
+
+         <h3>Daredevil</h3>
+
+         <img src="scale.webp" alt="Daredevil">
+
+         <p>Başarılı bir avukat olan Matt Murdock, çocukken geçirdiği bir kaza sonucu gözlerini kaybeder (radyoaktif bir madde gözlerine sıçrar). Gözlerini kaybetmesine karşılık diğer duyularını geliştiren Murdock, kendini sürekli olarak psikolojik ve fiziksel olarak geliştirir.</p>
+</body>
+</html>
