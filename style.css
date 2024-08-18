@@ -1,0 +1,27 @@
+body{
+          background-color:bisque ;
+}
+
+.section #section b{
+          color: orangered;
+          text-decoration: underline;
+          display: inline-flex;
+          justify-content: center;
+}
+
+.article{
+          display: flex;
+          justify-content: center;
+}
+
+.article #article h4{
+          background-color: saddlebrown;
+          /* width: 12%; */
+          color: white;
+}
+
+footer h1{
+          display: flex;
+          justify-content: end;
+          margin-right: 400px;
+}
